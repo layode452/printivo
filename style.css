@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    /* overflow-x: hidden; */
+}
+
+/* nav-bar */
+.one{
+    font-size: 13.5px;
+    font-weight: 600;
+    color: #506683;
+    background-color: #F7F6F4;
+    height: 70px;
+}
+
+/* first-div */
+.first-div{
+    background-image: url(images/val-banner_bk99je.png);
+}
+
+.firstdd{
+    font-size: 14.5px;
+    font-weight: 600;
+}
+
+.first-div h1{
+    font-size: 33px;
+    font-weight: 700;
+    color: #EE120D;
+    font-family: "Noto Serif Display", serif;
+    margin-top: 50px;
+    overflow-y: hidden;
+}
+
+.hand{
+    margin-left: 165px;
+    margin-top: 80px;
+}
+
+/* third div */
+.third-parent{
+    display: flex;
+    justify-content: space-between;
+}
+
+.third-parent h3{
+    font-size: 30px;
+    font-weight: 600;
+    color: #384A62;
+    font-family: "Noto Serif Display", serif;
+}
+
+.third-parent a{
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: #D77F81;
+    margin-top: 15px;
+}
