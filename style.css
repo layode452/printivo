@@ -17,6 +17,11 @@
 .firstdd{
     font-size: 14.5px;
     font-weight: 600;
+    position: sticky;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 1000;
 }
 
 .first-div h1{
@@ -298,13 +303,14 @@
 
 /* 10th body */
 .tenth-body{
-    padding: 40px;
+    padding: 30px;
     background-color: #CBCAC8;
     text-align: center;
+    height: 90px;
 }
 
 .tenth-body p{
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 400;
     color: #384A62;
 }
