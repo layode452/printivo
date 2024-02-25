@@ -24,6 +24,10 @@
     z-index: 1000;
 }
 
+.samp{
+    display: none;
+}
+
 .first-div h1{
     font-size: 33px;
     font-weight: 700;
@@ -57,6 +61,11 @@
     font-weight: 400;
     color: #D77F81;
     margin-top: 15px;
+}
+
+.sample{
+    width: 17rem;
+    height: 26rem;
 }
 
 .work{

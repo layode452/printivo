@@ -1,0 +1,153 @@
+@media screen and (max-width: 475px){
+    *{
+        overflow-x: hidden;
+    }
+
+    /* nav-bar */
+    .two{
+        display: none;
+    }
+
+    .one{
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+        margin-right: 20px;
+        width: 100%;
+    }
+
+    .need{
+        display: none;
+    }
+
+    .what{
+        margin-left: 50px;
+    }
+
+    .naija{
+        margin-left: 53px;
+    }
+
+    .fur{
+        margin-right: 5px;
+    }
+
+    /* first div */
+    .mat{
+        display: none;
+    }
+
+    .ones{
+        margin-top: -50px;
+    }
+
+    .samp{
+        display: block;
+        border: 1px solid white;
+        background-color: rgb(248, 247, 247);
+        width: 90px;
+        height: 55px;
+        text-align: center;
+        padding: 15px;
+    }
+
+    .samp a{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .hand{
+        display: none;
+    }
+
+    .full{
+        padding: 20px;
+    }
+
+    /* third div */
+    .sec{
+        padding: 20px;
+    }
+
+    .third-child h3{
+        font-size: 25px;
+    }
+
+    .bbbb{
+        display: block;
+    }
+
+    .sided{
+        overflow-y: hidden;
+    }
+
+    .sample{
+        width: 370px;
+    }
+
+    /* 4th body */
+    .fourth-child h3{
+        font-size: 22px;
+    }
+
+    /* 5th body */
+    .micro{
+        width: 380px;
+    }
+
+    /* 6th body */
+    .up{
+        padding: 25px;
+    }
+
+    .ups{
+        display: block;
+    }
+
+    .twitt{
+        display: flex;
+        justify-content: space-between;
+        gap: 40px;
+    }
+
+    .flu{
+        margin-bottom: 30px;
+    }
+
+    /* 7th body */
+    .wall{
+        padding: 20px;
+    }
+
+    .clock{
+        display: block;
+    }
+
+    .shield{
+        width: 280px;
+    }
+
+    /* 8th body */
+    .tc{
+        padding: 20px;
+    }
+
+    .eight-body h2{
+        font-size: 23px;
+    }
+
+    .forbes{
+        display: block;
+    }
+
+    /* 9th body */
+    .las{
+        padding: 20px;
+        display: block;
+    }
+
+    /* end */
+    .endb{
+        top: 780px;
+    }
+}
