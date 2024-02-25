@@ -69,6 +69,10 @@
         padding: 20px;
     }
 
+    .secss{
+        margin-top: 60px;
+    }
+
     .third-child h3{
         font-size: 25px;
     }
@@ -88,6 +92,10 @@
     /* 4th body */
     .fourth-child h3{
         font-size: 22px;
+    }
+
+    .secsss{
+        margin-top: 50px;
     }
 
     /* 5th body */
