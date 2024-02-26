@@ -33,6 +33,10 @@
     }
 
     /* first div */
+    .first-div{
+        background-position: center;
+    }
+
     .mat{
         display: none;
     }
@@ -161,6 +165,6 @@
 
     /* end */
     .endb{
-        top: 780px;
+        top: 755px;
     }
 }
